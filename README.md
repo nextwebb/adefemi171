@@ -27,7 +27,7 @@ Nextwebb song's Playing
 - Repoteec Community
 - Andela learning community, ALC 
 - Facebook Developer Circle Lagos
-- Blacks In Tech
+- Blacks In Tech, BIT Lagos
 
 ---
 
