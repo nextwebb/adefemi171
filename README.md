@@ -23,7 +23,7 @@ Nextwebb song's Playing
 
 ## 👯 Communities
 - GitHub Student Developer
-- Google Developer Student club, DSC
+- Google Developer Student Club, DSC
 - Repoteec Community
 - Andela learning community, ALC 
 - Facebook Developer Circle Lagos
