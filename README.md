@@ -4,7 +4,12 @@
 
 <img align='right' src="https://raw.githubusercontent.com/adefemi171/adefemi171/master/femiOctocat.png" width='200"'>
 
-[![Twitter Badge](https://img.shields.io/badge/-@daycrawller-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/daycrawller)](https://twitter.com/daycrawller) [![Linkedin Badge](https://img.shields.io/badge/-AdefemiMicheal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/afuwape-adefemi-micheal/) [![Medium Badge](https://img.shields.io/badge/-@adefemi171-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mailharshkhatri/)](https://medium.com/adefemi171)
+[![Twitter Badge](https://img.shields.io/badge/-@i_am_nextwebb-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/i_am_nextwebb)](https://twitter.com/i_am_nextwebb)
+
+[![Linkedin Badge](https://img.shields.io/badge/-AdefemiMicheal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/afuwape-adefemi-micheal/) 
+
+[![Medium Badge](https://img.shields.io/badge/-@adefemi171-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mailharshkhatri/)](https://medium.com/adefemi171)
+
 [![Gmail Badge](https://img.shields.io/badge/-adefemi171@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adefemi171@gmail.com)](mailto:adefemi171@gmail.com)
 
 - Adefemi🌟 here 👋💻 :man: from Lagos, Nigeria and currently studying Computer Science in University of Ibadan. I love networking and mentoring :8ball: :revolving_hearts:
