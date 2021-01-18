@@ -9,7 +9,9 @@
 [![Medium Badge](https://img.shields.io/badge/-@nextwebb-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@nextwebb/)](https://nextwebb.medium.com/)
 [![Gmail Badge](https://img.shields.io/badge/-oaikhenahpeterson@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oaikhenahpeterson@gmail.com)](mailto:oaikhenahpeterson@gmail.com)
 
-- Nextwebb 🚀 here 👋💻 : Highly motivated software engineer ⚙️! lover of communities 🥑. Opensource contributor 🖥️. Avid learner . lover of Nature 🌲 and humans :)
+## Nextwebb 🚀 here 👋💻 : 
+
+Highly motivated software engineer ⚙️! lover of communities 🥑. Opensource contributor 🖥️. Avid learner . lover of Nature 🌲 and humans :)
 ---
 
 ### Youtube Music Playing 🎧
@@ -42,12 +44,13 @@
 
 ## 💬 Details
 - Name: Peterson O. Oaikhenah
+- Nickname: Nextwebb 
 - 😄 Pronouns: He/Him :man: 
 - Employer: Automation Cube 
 <!-- - Presentations -->
 - Technical Blog: [i write here 👉](https://blog.nextwebb.tech/)
 
-- ⚡ Fun fact: The Firefox logo isn’t a fox.
+- ⚡ Fun fact: The Firefox logo isn’t a fox 🦊.
 
 
 ---
