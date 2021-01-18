@@ -2,47 +2,52 @@
 
 <h2> Hello fellow human! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align='right' src="https://raw.githubusercontent.com/adefemi171/adefemi171/master/femiOctocat.png" width='200"'>
+<img align='right' src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1610931763/octocat.jpg" width='200"'>
 
 [![Twitter Badge](https://img.shields.io/badge/-@i_am_nextwebb-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/i_am_nextwebb)](https://twitter.com/i_am_nextwebb)
+[![Linkedin Badge](https://img.shields.io/badge/-PetersonOaikhenah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peterson-oaikhenah-102645144/)](https://www.linkedin.com/in/peterson-oaikhenah-102645144/) 
+[![Medium Badge](https://img.shields.io/badge/-@nextwebb-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@nextwebb/)](https://nextwebb.medium.com/)
+[![Gmail Badge](https://img.shields.io/badge/-oaikhenahpeterson@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oaikhenahpeterson@gmail.com)](mailto:oaikhenahpeterson@gmail.com)
 
-[![Linkedin Badge](https://img.shields.io/badge/-AdefemiMicheal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/afuwape-adefemi-micheal/) 
-
-[![Medium Badge](https://img.shields.io/badge/-@adefemi171-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mailharshkhatri/)](https://medium.com/adefemi171)
-
-[![Gmail Badge](https://img.shields.io/badge/-adefemi171@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adefemi171@gmail.com)](mailto:adefemi171@gmail.com)
-
-- Adefemi🌟 here 👋💻 :man: from Lagos, Nigeria and currently studying Computer Science in University of Ibadan. I love networking and mentoring :8ball: :revolving_hearts:
-
+- Nextwebb 🚀 here 👋💻 : Highly motivated software engineer ⚙️! lover of communities 🥑. Opensource contributor 🖥️. Avid learner . lover of Nature 🌲 and humans :)
 ---
 
-### Spotify Playing 🎧
-[<img src="https://nova-spotify.adefemi171.vercel.app/api/spotify-playing" alt="Adefemi Spotify Playing" width="350" />](https://open.spotify.com/user/wl554eioay5mq3oqqs01jxd5c)
+### Youtube Music Playing 🎧
+[<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1610932526/Screenshot_from_2021-01-18_02-14-59.png" alt="Nextwebb song's Playing" title="Nextwebb song's Playing" width="350" />](https://music.youtube.com/playlist?list=LM)
 
 ---
 
 ## 👯 Communities
-- Microsoft Learn Student Ambassadors 
-- HackerEarth Campus Ambassador
+- GitHub Student Developer
+- Google Developer Student club, DSC
+- Repoteec 
+- Andela learning community, ALC 
+- Facebook Developer Circle Lagos
+- Blacks in tech
 
 ---
 
 ## 🔭 I’m currently working on
+[![Mentavor](https://img.shields.io/badge/Mentavisor-Improving%20qaulity%20mental%20heath%20care%20service-green)](https://app.mentavisor.com)
+
+<a href="https://app.mentavisor.com"><img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1610930148/logo.png" title="Mentavisor"  ></a>
 
 ---
 
 ## 🌱 I’m currently learning
+- Golang
 
+![](https://raw.githubusercontent.com/assertgo/icon/master/assertgo_512.png "We are no longer the gophers who say Ni! We are now the gophers who say ekki-ekki-all-tests-are-green!")
 ---
 
 ## 💬 Details
-- Name: Adefemi .A. Micheal
-- 😄 Pronouns: He/Him :man:
-- Employer
+- Name: Peterson O. Oaikhenah
+- 😄 Pronouns: He/Him :man: 
+- Employer: Automation Cube 
 <!-- - Presentations -->
-- Portfolio: [Portfolio](https://adefemi.netlify.com/)
+- Technical Blog: [i write here 👉](https://blog.nextwebb.tech/)
 
-- ⚡ Fun fact: Cheetah's can swim
+- ⚡ Fun fact: The Firefox logo isn’t a fox.
 
 
 ---
@@ -50,42 +55,25 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Go App with Gitlab Runner on Azure |Part 1](https://medium.com/swlh/building-go-app-with-gitlab-runner-on-azure-part-1-5e2a21c47876?source=rss-c011ee23c0a1------2)
-- [Containerization |Part 3: LXD ON STEROID](https://medium.com/faun/containerization-part-3-lxd-on-steroid-cbf73fccbc72?source=rss-c011ee23c0a1------2)
-- [Creating a Covid-10 Dashboard using Cube.js and VueJS](https://medium.com/analytics-vidhya/creating-a-covid-10-dashboard-using-cube-js-and-vuejs-17377dda5ef8?source=rss-c011ee23c0a1------2)
-- [Containerization |Part 2: From LXD to Kubernetes](https://medium.com/faun/containerization-part-2-from-lxd-to-kubernetes-6d595035fbc9?source=rss-c011ee23c0a1------2)
-- [What the Heck is Containerization?](https://dev.to/adefemi171/what-the-heck-is-containerization-4bpo)
+- [Concurrency in Golang](https://blog.nextwebb.tech/concurrency-in-golang)
+- [Role-Based Access Control ( RBAC) for NoSQL DB in Nodejs](https://blog.nextwebb.tech/role-based-access-control-rbac-for-nosql-db-in-nodejs)
+- [How To Dockerize A Simple Django App](https://blog.nextwebb.tech/how-to-dockerize-a-simple-django-app)
+- [Introduction To Linked-list In Python](https://blog.nextwebb.tech/introduction-to-linked-list-in-python)
+- [Python Techniques - How to Check If Multiple Keys Exists In A Dictionary?](https://blog.nextwebb.tech/python-techniques-how-to-check-if-multiple-keys-exists-in-a-dictionary)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://medium.com/@adefemi171)
+➡️ [more blog posts...](https://blog.nextwebb.tech)
 
 ---
 
 
 <details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/adefemi171/random-joke-proj/pull/9) in [adefemi171/random-joke-proj](https://github.com/adefemi171/random-joke-proj)
-2. 💪 Opened PR [#9](https://github.com/adefemi171/random-joke-proj/pull/9) in [adefemi171/random-joke-proj](https://github.com/adefemi171/random-joke-proj)
-3. 🎉 Merged PR [#8](https://github.com/adefemi171/random-joke-proj/pull/8) in [adefemi171/random-joke-proj](https://github.com/adefemi171/random-joke-proj)
-4. 💪 Opened PR [#8](https://github.com/adefemi171/random-joke-proj/pull/8) in [adefemi171/random-joke-proj](https://github.com/adefemi171/random-joke-proj)
-5. 🎉 Merged PR [#7](https://github.com/adefemi171/random-joke-proj/pull/7) in [adefemi171/random-joke-proj](https://github.com/adefemi171/random-joke-proj)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Adefemi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adefemi171&show_icons=true&hide_border=true&theme=dark" />
+  <img align="left" alt="Nextwebb's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nextwebb&show_icons=true&hide_border=true&theme=dark" />
 
 </details>
 
-
-<!-- ![Adefemi's github stats](https://github-readme-stats.vercel.app/api?username=adefemi171&hide=["issues"]&show_icons=true) -->
-
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=adefemi171.adefemi171) -->
 <br />
 
 ---
