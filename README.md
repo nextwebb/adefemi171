@@ -39,9 +39,9 @@ Nextwebb song's Playing
 ---
 
 ## 🌱 I’m currently learning
-- Golang
+- Golang - Go Programming language
 
-![](https://raw.githubusercontent.com/assertgo/icon/master/assertgo_512.png "We are no longer the gophers who say Ni! We are now the gophers who say ekki-ekki-all-tests-are-green!")
+![](https://raw.githubusercontent.com/assertgo/icon/master/assertgo_512.png  "We are no longer the gophers who say Ni! We are now the gophers who say ekki-ekki-all-tests-are-green!")
 ---
 
 ## 💬 Details
