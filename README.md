@@ -17,15 +17,17 @@ Highly motivated software engineer ⚙️! lover of communities 🥑. Opensource
 ### Youtube Music Playing 🎧
 [<img src="https://res.cloudinary.com/nextwebb-devs/image/upload/v1610932526/Screenshot_from_2021-01-18_02-14-59.png" alt="Nextwebb song's Playing" title="Nextwebb song's Playing" width="350" />](https://music.youtube.com/playlist?list=LM)
 
+Nextwebb song's Playing
+
 ---
 
 ## 👯 Communities
 - GitHub Student Developer
 - Google Developer Student club, DSC
-- Repoteec 
+- Repoteec Community
 - Andela learning community, ALC 
 - Facebook Developer Circle Lagos
-- Blacks in tech
+- Blacks In Tech
 
 ---
 
