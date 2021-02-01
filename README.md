@@ -24,7 +24,7 @@ Nextwebb song's Playing
 ## 👯 Communities
 - GitHub Student Developer
 - Google Developer Student Club, DSC
-- Repoteec Community
+- [Repotecc Community](repotecc.com)
 - Andela learning community, ALC 
 - Facebook Developer Circle Lagos
 - Blacks In Tech, BIT Lagos
